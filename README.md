@@ -2,7 +2,7 @@
 # Hello, I'm Abhijeet Kumar
 <a href="https://linkedin.com/in/abhijeet-kumar1608/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Hello! I'm Abhijeet Kumar, a recent graduate with a profound interest in technology and a dedication to solving complex problems. Moreover, I am a dedicated cybersecurity enthusiast passionate about exploring and mastering the dynamic field of information security. My mission is to protect digital assets and data from the ever-evolving landscape of cyber threats.
+Hello! I'm a recent graduate with a profound interest in technology and a dedication to solving complex problems. Moreover, I am a dedicated cybersecurity enthusiast passionate about exploring and mastering the dynamic field of information security. My mission is to protect digital assets and data from the ever-evolving landscape of cyber threats.
 
 ## Objective
 
