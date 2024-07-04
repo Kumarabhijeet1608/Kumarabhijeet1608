@@ -43,6 +43,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
+<!
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterward]]
 <div>
@@ -52,6 +53,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
+>
 
 ## Projects
 - Malware Analysis Lab using FlareVM & REMnux
