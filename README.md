@@ -51,7 +51,7 @@ Hello! I'm **Abhijeet Kumar**, a cybersecurity professional with a passion for *
 
 ## 🎯 **Red Team Skills & Focus Areas**
 
-### **�� Offensive Security (Primary Focus)**
+### **💀 Offensive Security (Primary Focus)**
 - **Penetration Testing** - Web applications, networks, systems
 - **Vulnerability Assessment** - Identifying and exploiting weaknesses
 - **Social Engineering** - Human factor exploitation techniques
@@ -67,7 +67,7 @@ Hello! I'm **Abhijeet Kumar**, a cybersecurity professional with a passion for *
 
 ## 📚 **Recent CTF & Security Publications**
 
-- **�� [picoCTF 2025 Forensics Track: Complete Walkthrough](https://medium.com/@akumar54/picoctf-2025-forensics-track-a-complete-walkthrough-15f998b88f3d)**
+- **👻 [picoCTF 2025 Forensics Track: Complete Walkthrough](https://medium.com/@akumar54/picoctf-2025-forensics-track-a-complete-walkthrough-15f998b88f3d)**
 - **🥑 [picoCTF Cryptography Track: Cheese, Ciphers & Cracked Keys](https://medium.com/@akumar54/picoctf-cryptography-track-write-up-cheese-ciphers-cracked-keys-c6908c2dca75)**
 - **🧮 [DwagCTF 2025 Cryptography Solutions](https://medium.com/@akumar54/metactf-2025-cryptography-solutions-bccd0f057d5a)**
 
@@ -77,8 +77,8 @@ Hello! I'm **Abhijeet Kumar**, a cybersecurity professional with a passion for *
 
 - **🎓 Master's in Cybersecurity** | University of Maryland (Current)
 - **💼 Junior Cyber Forensic Analyst** | 1+ years experience
-- **�� Red Team Focus** | Penetration testing and ethical hacking
-- **�� CTF Experience** | Active participation in capture the flag challenges
+- **🔴 Red Team Focus** | Penetration testing and ethical hacking
+- **🚩 CTF Experience** | Active participation in capture the flag challenges
 
 ---
 
@@ -105,7 +105,7 @@ Hello! I'm **Abhijeet Kumar**, a cybersecurity professional with a passion for *
 
 I'm actively seeking:
 - **🔴 Red Team opportunities** and penetration testing roles
-- **�� Collaboration** on offensive security projects
+- **🤝 Collaboration** on offensive security projects
 - **📚 Mentorship** from experienced penetration testers
 - **🔬 CTF teams** and security research groups
 
