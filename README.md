@@ -23,14 +23,14 @@ Hello! I'm **Abhijeet Kumar**, a cybersecurity professional currently pursuing m
 
 ## 🛠️ **Technical Skills**
 
-### **�� Offensive Security**
+### **💀 Offensive Security**
 | Skill | Project | Description |
 |-------|---------|-------------|
 | **Penetration Testing** | [eJPT Prep Guide](https://ejpt.abjk.dev/) | Comprehensive exam preparation and methodology |
 | **Web Application Security** | [Web Security Lab](https://github.com/Kumarabhijeet1608/Web-Security-Lab) | OWASP Top 10, XSS, SQL Injection testing |
 | **Network Security** | [Network Scanner](https://github.com/Kumarabhijeet1608/Python-Nmap-Port-Scanner) | Custom port scanning and network reconnaissance |
 
-### **��️ Digital Forensics**
+### **⚔️ Digital Forensics**
 | Skill | Project | Description |
 |-------|---------|-------------|
 | **Memory Forensics** | [Malware Analysis Lab](https://github.com/Kumarabhijeet1608/Malware-Analysis-Lab-using-FlareVM-REMnux) | FlareVM & REMnux setup for malware analysis |
@@ -76,7 +76,7 @@ Hello! I'm **Abhijeet Kumar**, a cybersecurity professional currently pursuing m
 
 ## 📚 **Recent Publications**
 
-- **�� [picoCTF 2025 Forensics Track: Complete Walkthrough](https://medium.com/@akumar54/picoctf-2025-forensics-track-a-complete-walkthrough-15f998b88f3d)**
+- **👻 [picoCTF 2025 Forensics Track: Complete Walkthrough](https://medium.com/@akumar54/picoctf-2025-forensics-track-a-complete-walkthrough-15f998b88f3d)**
 - **🥑 [picoCTF Cryptography Track: Cheese, Ciphers & Cracked Keys](https://medium.com/@akumar54/picoctf-cryptography-track-write-up-cheese-ciphers-cracked-keys-c6908c2dca75)**
 - **🧮 [DwagCTF 2025 Cryptography Solutions](https://medium.com/@akumar54/metactf-2025-cryptography-solutions-bccd0f057d5a)**
 
@@ -102,7 +102,7 @@ Hello! I'm **Abhijeet Kumar**, a cybersecurity professional currently pursuing m
 ## 🌟 **What I'm Currently Working On**
 
 - **🔍 Advanced CTF Challenges** - Expanding my offensive security skills
-- **�� Mobile Forensics** - iOS/Android device analysis techniques
+- **📱 Mobile Forensics** - iOS/Android device analysis techniques
 - **☁️ Cloud Security** - AWS/Azure security assessment methodologies
 - **🤖 AI in Cybersecurity** - Machine learning for threat detection
 
@@ -111,7 +111,7 @@ Hello! I'm **Abhijeet Kumar**, a cybersecurity professional currently pursuing m
 ## 📞 **Let's Connect!**
 
 I'm always interested in:
-- **�� Collaboration** on cybersecurity projects
+- **🤝 Collaboration** on cybersecurity projects
 - **💼 Job opportunities** in SOC, forensics, or penetration testing
 - **📚 Knowledge sharing** and learning from the community
 - **🔬 Research partnerships** in emerging security technologies
