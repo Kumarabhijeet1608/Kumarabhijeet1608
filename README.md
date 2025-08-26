@@ -1,6 +1,6 @@
 # 🛡️ Abhijeet Kumar | Cybersecurity Professional
 
-> **Cybersecurity Enthusiast | Digital Forensics Specialist | Penetration Tester**
+> **Cybersecurity Enthusiast | Junior Digital Forensics Analyst | Penetration Tester**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhijeet%20Kumar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abhijeet-kumar1608/)
 [![Medium](https://img.shields.io/badge/Medium-@akumar54-black?style=for-the-badge&logo=medium)](https://medium.com/@akumar54)
