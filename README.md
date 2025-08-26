@@ -1,6 +1,6 @@
-# 🛡️ Abhijeet Kumar | Cybersecurity Professional
+# 🎯 Abhijeet Kumar | Red Team Security Researcher
 
-> **Cybersecurity Enthusiast | Junior Digital Forensics Analyst | Penetration Tester**
+> **Penetration Tester | Ethical Hacker | Cybersecurity Enthusiast**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhijeet%20Kumar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abhijeet-kumar1608/)
 [![Medium](https://img.shields.io/badge/Medium-@akumar54-black?style=for-the-badge&logo=medium)](https://medium.com/@akumar54)
@@ -10,73 +10,64 @@
 
 ## 🎯 **About Me**
 
-Hello! I'm **Abhijeet Kumar**, a cybersecurity professional currently pursuing my Master's in Cybersecurity at the **University of Maryland**. With a passion for ethical hacking, digital forensics, and security operations, I'm dedicated to protecting digital assets from evolving cyber threats.
+Hello! I'm **Abhijeet Kumar**, a cybersecurity professional with a passion for **Red Team operations** and **ethical hacking**. Currently pursuing my Master's in Cybersecurity at the **University of Maryland**, I focus on offensive security, penetration testing, and vulnerability research.
 
 ### 🏆 **Current Certifications**
-- **CompTIA Security+** (Aug 2024 - Aug 2027)
-- **CHFI (Computer Hacking Forensic Investigator)** (Oct 2024 - Oct 2027)
+- **eJPT (Junior Penetration Tester)** (May 2025 - May 2028) - **NEW!**
 - **CEH (Certified Ethical Hacker)** (Apr 2025 - Apr 2028)
-- **eJPT (Junior Penetration Tester)** (May 2025 - May 2028)
+- **CHFI (Computer Hacking Forensic Investigator)** (Oct 2024 - Oct 2027)
+- **CompTIA Security+** (Aug 2024 - Aug 2027)
 - **Windows Forensics with Belkasoft** (Feb 2025 - No expiry)
 
 ---
 
-## 🛠️ **Technical Skills**
+## �� **Current Projects (Building & Growing!)**
 
-### **💀 Offensive Security**
-| Skill | Project | Description |
-|-------|---------|-------------|
-| **Penetration Testing** | [eJPT Prep Guide](https://ejpt.abjk.dev/) | Comprehensive exam preparation and methodology |
-| **Web Application Security** | [Web Security Lab](https://github.com/Kumarabhijeet1608/Web-Security-Lab) | OWASP Top 10, XSS, SQL Injection testing |
-| **Network Security** | [Network Scanner](https://github.com/Kumarabhijeet1608/Python-Nmap-Port-Scanner) | Custom port scanning and network reconnaissance |
+### **1. �� Network Security & Reconnaissance**
+> **Network Tracking using Wireshark and Google Maps**
+- **Technologies:** Python, Wireshark, Google Maps API, Network Analysis
+- **Purpose:** Network traffic analysis and geolocation mapping
+- **Status:** 🔄 In Development
 
-### **⚔️ Digital Forensics**
-| Skill | Project | Description |
-|-------|---------|-------------|
-| **Memory Forensics** | [Malware Analysis Lab](https://github.com/Kumarabhijeet1608/Malware-Analysis-Lab-using-FlareVM-REMnux) | FlareVM & REMnux setup for malware analysis |
-| **Windows Forensics** | [Windows Forensics Guide](https://github.com/Kumarabhijeet1608/Windows-Forensics-Lab) | Belkasoft tools and techniques |
-| **Network Forensics** | [Network Tracking](https://github.com/Kumarabhijeet1608/Network-Tracking-using-Wireshark-and-Google-Maps) | Wireshark analysis with geolocation |
+### **2. 🔒 Secure File Storage System**
+> **2.0 Secure File Storage - Final Year Project**
+- **Technologies:** Python, Cryptography, File Encryption, Secure Storage
+- **Purpose:** Secure file storage with encryption and access control
+- **Status:** 🔄 In Development
 
-### **🛡️ Defensive Security**
-| Skill | Project | Description |
-|-------|---------|-------------|
-| **SIEM & SOC** | [Detection Lab](https://github.com/Kumarabhijeet1608/Detection-Lab) | Splunk, ELK stack, and log analysis |
-| **Incident Response** | [SOC Automation](https://github.com/Kumarabhijeet1608/SOC-Automation-Project) | TheHive, Shuffle SOAR automation |
-| **Threat Hunting** | [Honeypot Deployment](https://github.com/Kumarabhijeet1608/T-POT-Honeypot) | T-POT honeypot with VULTR VPS |
+### **3. 🕵️ Fraud Detection Tool**
+> **Machine Learning Based Fraud Detection**
+- **Technologies:** Python, Machine Learning, Data Analysis, Security
+- **Purpose:** Automated fraud detection and threat identification
+- **Status:** 🔄 In Development
 
----
-
-## 🚀 **Featured Projects**
-
-### **1. 🧪 Malware Analysis Lab**
-> **FlareVM & REMnux Setup for Advanced Malware Analysis**
-- **Technologies:** FlareVM, REMnux, Volatility, PEStudio
-- **Features:** Automated malware analysis pipeline, static/dynamic analysis
-- **Status:** ✅ Complete & Documented
-
-### **2. 🏠 Active Directory Home Lab**
-> **Complete SOC Environment with Splunk & Atomic Red Team**
-- **Technologies:** Splunk, Kali Linux, Atomic Red Team, Windows Server
-- **Features:** SIEM implementation, threat emulation, log correlation
-- **Status:** ✅ Complete & Documented
-
-### **3. 🤖 SOC Automation Project**
-> **Security Orchestration & Automated Response (SOAR)**
-- **Technologies:** TheHive, Shuffle SOAR, Python, REST APIs
-- **Features:** Incident automation, case management, threat response
-- **Status:** ✅ Complete & Documented
-
-### **4. 🍯 T-POT Honeypot Deployment**
-> **Multi-Service Honeypot for Threat Intelligence**
-- **Technologies:** T-POT, Docker, VULTR VPS, ELK Stack
-- **Features:** 20+ honeypot services, real-time threat monitoring
-- **Status:** ✅ Complete & Documented
+### **4. 🚨 National Disaster Response Platform**
+> **NDRF_SIH_PDEU - Smart India Hackathon Project**
+- **Technologies:** JavaScript, Web Development, Emergency Response
+- **Purpose:** Decentralized disaster response coordination platform
+- **Status:** 🔄 In Development
 
 ---
 
-## 📚 **Recent Publications**
+## 🎯 **Red Team Skills & Focus Areas**
 
-- **👻 [picoCTF 2025 Forensics Track: Complete Walkthrough](https://medium.com/@akumar54/picoctf-2025-forensics-track-a-complete-walkthrough-15f998b88f3d)**
+### **�� Offensive Security (Primary Focus)**
+- **Penetration Testing** - Web applications, networks, systems
+- **Vulnerability Assessment** - Identifying and exploiting weaknesses
+- **Social Engineering** - Human factor exploitation techniques
+- **Post-Exploitation** - Privilege escalation and persistence
+
+### **🛡️ Defensive Knowledge (Understanding the Enemy)**
+- **Digital Forensics** - Evidence collection and analysis
+- **Incident Response** - Understanding attack patterns
+- **Threat Intelligence** - Studying adversary techniques
+- **Security Monitoring** - SIEM and log analysis
+
+---
+
+## 📚 **Recent CTF & Security Publications**
+
+- **�� [picoCTF 2025 Forensics Track: Complete Walkthrough](https://medium.com/@akumar54/picoctf-2025-forensics-track-a-complete-walkthrough-15f998b88f3d)**
 - **🥑 [picoCTF Cryptography Track: Cheese, Ciphers & Cracked Keys](https://medium.com/@akumar54/picoctf-cryptography-track-write-up-cheese-ciphers-cracked-keys-c6908c2dca75)**
 - **🧮 [DwagCTF 2025 Cryptography Solutions](https://medium.com/@akumar54/metactf-2025-cryptography-solutions-bccd0f057d5a)**
 
@@ -86,44 +77,46 @@ Hello! I'm **Abhijeet Kumar**, a cybersecurity professional currently pursuing m
 
 - **🎓 Master's in Cybersecurity** | University of Maryland (Current)
 - **💼 Junior Cyber Forensic Analyst** | 1+ years experience
-- **🔬 Digital Forensics & SOC Operations** | Hands-on lab experience
-- **📊 Threat Intelligence & Incident Response** | Real-world scenarios
+- **�� Red Team Focus** | Penetration testing and ethical hacking
+- **�� CTF Experience** | Active participation in capture the flag challenges
 
 ---
 
-## �� **GitHub Stats**
+## 🚧 **Projects Under Development**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kumarabhijeet1608&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kumarabhijeet1608&layout=compact&theme=radical&hide_border=true)
+### **🔄 Coming Soon:**
+- **Web Application Security Lab** - OWASP Top 10 testing environment
+- **Network Penetration Testing Toolkit** - Custom tools for network assessment
+- **Social Engineering Framework** - Phishing and human exploitation lab
+- **Post-Exploitation Lab** - Privilege escalation and persistence techniques
 
 ---
 
-## 🌟 **What I'm Currently Working On**
+## 🌟 **What I'm Currently Learning**
 
-- **🔍 Advanced CTF Challenges** - Expanding my offensive security skills
-- **📱 Mobile Forensics** - iOS/Android device analysis techniques
-- **☁️ Cloud Security** - AWS/Azure security assessment methodologies
-- **🤖 AI in Cybersecurity** - Machine learning for threat detection
+- **🔍 Advanced Web Exploitation** - OWASP Top 10, custom payloads
+- **🌐 Network Penetration Testing** - Custom tools and methodologies
+- **📱 Mobile Security** - Android/iOS application testing
+- **☁️ Cloud Security Assessment** - AWS/Azure penetration testing
 
 ---
 
 ## 📞 **Let's Connect!**
 
-I'm always interested in:
-- **🤝 Collaboration** on cybersecurity projects
-- **💼 Job opportunities** in SOC, forensics, or penetration testing
-- **📚 Knowledge sharing** and learning from the community
-- **🔬 Research partnerships** in emerging security technologies
+I'm actively seeking:
+- **🔴 Red Team opportunities** and penetration testing roles
+- **�� Collaboration** on offensive security projects
+- **📚 Mentorship** from experienced penetration testers
+- **🔬 CTF teams** and security research groups
 
-**Ready to discuss cybersecurity, collaborate on projects, or explore opportunities? Let's connect!**
+**Interested in Red Team operations, penetration testing, or offensive security? Let's connect and hack ethically together!**
 
 ---
 
 <div align="center">
 
-**🛡️ Protecting Digital Assets, One Vulnerability at a Time 🛡️**
+**🎯 Red Team: Understanding the Attack to Build Better Defense 🎯**
 
-*"The best defense is a good offense - but only when it's ethical and authorized."*
+*"To catch a hacker, you need to think like a hacker - but always stay ethical and authorized."*
 
 </div>
