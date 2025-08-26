@@ -21,9 +21,9 @@ Hello! I'm **Abhijeet Kumar**, a cybersecurity professional with a passion for *
 
 ---
 
-## �� **Current Projects (Building & Growing!)**
+## 👀 **Current Projects (Building & Growing!)**
 
-### **1. �� Network Security & Reconnaissance**
+### **1. 🛜Network Security & Reconnaissance**
 > **Network Tracking using Wireshark and Google Maps**
 - **Technologies:** Python, Wireshark, Google Maps API, Network Analysis
 - **Purpose:** Network traffic analysis and geolocation mapping
