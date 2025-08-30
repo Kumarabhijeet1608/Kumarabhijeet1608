@@ -23,30 +23,35 @@ Hello! I'm **Abhijeet Kumar**, a cybersecurity professional with a passion for *
 
 ## 👀 **Current Projects (Building & Growing!)**
 
-### **1. 🛜Network Security & Reconnaissance**
-> **Network Tracking using Wireshark and Google Maps**
-- **Technologies:** Python, Wireshark, Google Maps API, Network Analysis
+### **1. 🛜 WiFi-Password-Extractor**
+> **Professional WiFi password extraction tool for authorized security testing and penetration testing**
+- **Technologies:** Python
 - **Purpose:** Network traffic analysis and geolocation mapping
-- [Network Security Recon](https://github.com/Kumarabhijeet1608/Network-Security-Recon)
+- [WiFi-Password-Extractor](https://github.com/Kumarabhijeet1608/WiFi-Password-Extractor-)
 
 ### **2. 🔒 Secure File Storage System**
 > **2.0 Secure File Storage - Final Year Project**
 - **Technologies:** Python, Cryptography, File Encryption, Secure Storage
 - **Purpose:** Secure file storage with encryption and access control
-- **Status:** 🔄 In Development
+- [Secure File Storage System 2.0](https://github.com/Kumarabhijeet1608/2.0_Secure_File_Storage)
 
 ### **3. 🕵️ Fraud Detection Tool**
 > **Machine Learning Based Fraud Detection**
 - **Technologies:** Python, Machine Learning, Data Analysis, Security
 - **Purpose:** Automated fraud detection and threat identification
-- **Status:** 🔄 In Development
+- [ Fraud Detection Tool](https://github.com/Kumarabhijeet1608/Fraud_Detection_Tool)
 
-### **4. 🚨 National Disaster Response Platform**
-> **NDRF_SIH_PDEU - Smart India Hackathon Project**
-- **Technologies:** JavaScript, Web Development, Emergency Response
-- **Purpose:** Decentralized disaster response coordination platform
-- **Status:** 🔄 In Development
+### **4. 🚨 stealth-keylogger**
+> **Professional stealth keystroke logging system with advanced exfiltration capabilities**
+- **Technologies:** Python
+- **Purpose:** Analyze keystrokes and Data Exfiltration
+- [stealth-keylogger](https://github.com/Kumarabhijeet1608/stealth-keylogger)
 
+### **5. 💀 ShadowOps**
+> **Advanced Cybersecurity Framework for penetration testing, red team operations, and security research**
+- **Technologies:** C++
+- **Purpose:** Security Assessment, Evasion Technique Development, Security Tool Testing.
+- [ShadowOps](https://github.com/Kumarabhijeet1608/ShadowOps)
 ---
 
 ## 🎯 **Red Team Skills & Focus Areas**
